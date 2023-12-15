@@ -1,6 +1,6 @@
-# Unes - Website de uma universidade.
+# Unes - Website para uma universidade.
 
-Projeto criado para uma universidade fictícia para praticar conhecimentos em HTML em conjunto com o curso de desenvolvimento web na Udemy.
+Projeto criado em setembro/2023 para praticar conhecimentos em HTML em conjunto com o curso de desenvolvimento web na Udemy.
 
 ### Tecnologias usadas no projeto:
 
