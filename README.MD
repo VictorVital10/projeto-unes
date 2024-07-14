@@ -2,8 +2,12 @@
 
 Projeto criado em setembro/2023 para praticar conhecimentos em HTML em conjunto com o curso de desenvolvimento web na Udemy.
 
-TESTE ALTERAÇÃO 14/07/2024 
+## Primeira tela:
+![Alt Text](print.img/print1.png)
 
-### Tecnologias usadas no projeto:
+## Segunda tela:
+![Alt Text](print.img/print2.png)
+
+## Tecnologias usadas no projeto:
 
 - HTML5
